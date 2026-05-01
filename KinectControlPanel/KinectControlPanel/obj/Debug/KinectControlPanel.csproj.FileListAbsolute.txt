@@ -1,0 +1,12 @@
+C:\Users\xDreezyn uL\source\repos\KinectControlPanel\KinectControlPanel\bin\Debug\KinectControlPanel.exe.config
+C:\Users\xDreezyn uL\source\repos\KinectControlPanel\KinectControlPanel\bin\Debug\KinectControlPanel.exe
+C:\Users\xDreezyn uL\source\repos\KinectControlPanel\KinectControlPanel\bin\Debug\KinectControlPanel.pdb
+C:\Users\xDreezyn uL\source\repos\KinectControlPanel\KinectControlPanel\bin\Debug\Microsoft.Kinect.dll
+C:\Users\xDreezyn uL\source\repos\KinectControlPanel\KinectControlPanel\bin\Debug\Microsoft.Kinect.xml
+C:\Users\xDreezyn uL\source\repos\KinectControlPanel\KinectControlPanel\obj\Debug\KinectControlPanel.csproj.AssemblyReference.cache
+C:\Users\xDreezyn uL\source\repos\KinectControlPanel\KinectControlPanel\obj\Debug\KinectControlPanel.Properties.Resources.resources
+C:\Users\xDreezyn uL\source\repos\KinectControlPanel\KinectControlPanel\obj\Debug\KinectControlPanel.csproj.GenerateResource.cache
+C:\Users\xDreezyn uL\source\repos\KinectControlPanel\KinectControlPanel\obj\Debug\KinectControlPanel.csproj.CoreCompileInputs.cache
+C:\Users\xDreezyn uL\source\repos\KinectControlPanel\KinectControlPanel\obj\Debug\KinectCo.55DAE02D.Up2Date
+C:\Users\xDreezyn uL\source\repos\KinectControlPanel\KinectControlPanel\obj\Debug\KinectControlPanel.exe
+C:\Users\xDreezyn uL\source\repos\KinectControlPanel\KinectControlPanel\obj\Debug\KinectControlPanel.pdb

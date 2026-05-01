@@ -1,0 +1,6 @@
+LIBRARY KinectVirtualCamera
+EXPORTS
+    DllRegisterServer
+    DllUnregisterServer
+    DllGetClassObject
+    DllCanUnloadNow

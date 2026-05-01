@@ -1,0 +1,5 @@
+darkMode=False
+previewOn=True
+useIR=False
+resIndex=0
+angle=-23
